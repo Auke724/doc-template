@@ -1,11 +1,11 @@
 ---
-title: Title of the project
+title: Mechanical Ventilation of SARS Patients: Lessons from the 2003 SARS Outbreak
 description: > 
-    Put here a description of what the hardware does
+    Patients suffering from SARS sometimes require mechanical ventilation. This raises safety concerns about the SARS virus being carried by droplets that exit from the exhalation limb of the ventilator. ECRI recommends that breathing-circuit filters be incorporated in the exhalation limb of any ventilator used on a patient with SARS. In this article, we review the issues behind our recommendations and describe steps hospitals can take to prevent any adverse effects on ventilation.ut here a description of what the hardware does
 keywords:
   - covid-19
   - medical equipment
-project-link: https://e-vent.mit.edu/
+project-link: https://www.ecri.org/components/HDJournal/Pages/Mechanical-Ventilation-of-SARS-Patients-2003-SARS-Outbreak.aspx?tab=2
 made: true
 made-independently: false
 license:
